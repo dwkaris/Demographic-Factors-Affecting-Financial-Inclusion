@@ -5,7 +5,7 @@
 
 {IP WEEK 4} {MAY 17 2020}  BY {DUNCAN WACHIRA}
 
-# NULL AND  ALTERNATIVE HYPOTHESIS
+## NULL AND  ALTERNATIVE HYPOTHESIS
 
 1.   Ho : Number of average cars rented per day in paris is 9000
 
