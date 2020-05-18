@@ -69,6 +69,9 @@ Hypothesis Testing
 -{SEABORN}
 -scipy library
 
+{Google docs}(below is a link to the documentation of the project)
+
+https://docs.google.com/document/d/1geBYd8X_XisLbEkxXEpLfPOB7q2oMufJ0criu9fxMuY/edit?usp=sharing
 
 ## LICENCE
 -MIT LICENCE WAS USED
